@@ -28,4 +28,5 @@ Every team dreams of lifting the World Cup trophy. We'll identify the countries 
 7. Home Advantage: Match Outcomes by Home and Away Teams Finally, we'll examine how home and away teams fare in matches. Does playing on home soil truly provide a significant advantage? By analyzing match outcomes, we'll explore this age-old question and uncover the strategies that lead to success on both sides of the pitch.
 
 By delving into these various aspects, this project will provide a comprehensive understanding of the FIFA World Cup and the captivating stories it tells through the power of data.
-https://www.kaggle.com/code/roopeshsinghal/fifa-world-cup-analysis
+
+For the whole code visit: https://www.kaggle.com/code/roopeshsinghal/fifa-world-cup-analysis
